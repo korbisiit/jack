@@ -1,5 +1,9 @@
 This is the house that jack destroyed
 Added this line to file
 this is the line that jack ate.
+<<<<<<< HEAD
 This is the brad that arte the cast.
+=======
+This is the bread that the bread bla .
+>>>>>>> branch2
 This is something else bla
